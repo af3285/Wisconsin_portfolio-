@@ -40,11 +40,15 @@ Alternativly, this code can also be directly copy and pasted into a .ipynb file 
 
 Once the notebook is executed, it will:
 
-Load the Wisconsin Dataset for Breast Cancer Classification.
-Perform preprocessing and data splitting into training and testing sets.
-Train multiple machine learning models, including logistic regression, support vector machines, Naive Bayes.
-Compare the models based on metrics such as accuracy, precision, recall, and F1-score.
-Generate visualizations for performance evaluation.
+-Load the Wisconsin Dataset for Breast Cancer Classification.
+
+-Perform preprocessing and data splitting into training and testing sets.
+
+-Train multiple machine learning models, including logistic regression, support vector machines, Naive Bayes.
+
+-Compare the models based on metrics such as accuracy, precision, recall, and F1-score.
+
+-Generate visualizations for performance evaluation.
 
 Acknowledgments
 
