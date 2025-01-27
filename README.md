@@ -11,13 +11,21 @@ Follow these instructions to set up and run the project on your local machine fo
 Prerequisites
 
 Python 3.7 or later
+
 Jupyer Notebook
+
 Required Python packages:
+
 numpy
+
 pandas
+
 scikit-learn
+
 matplotlib
+
 seaborn
+
 Ensure these packages are installed in your environment before proceeding.
 
 Installing
