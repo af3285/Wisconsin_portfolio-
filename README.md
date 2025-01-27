@@ -29,8 +29,11 @@ Clone the repository
 Open your terminal and run:
 
 git clone https://github.com/af3285/Wisconsin_portfolio-.git
+
 cd Wisconsin_portfolio-
+
 jupyter notebook Projectworkbook.ipynb
+
 Then follow the instructions provided in the command line
 
 Alternativly, this code can also be directly copy and pasted into a .ipynb file in any IDE of your choice 
