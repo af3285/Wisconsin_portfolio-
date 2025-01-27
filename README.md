@@ -2,7 +2,7 @@ BreastCancer_Classifier_Comparison
 
 This project was undertaken as part of my efforts to explore and compare the performance of multiple machine learning models using the Wisconsin Dataset for Breast Cancer Classification. I also wrote a paper as part of this analysis, which is available upon request for any prospective employer.
 
-The dataset is sourced from the UCI Machine Learning Repository and can be found at the following link: Breast Cancer Wisconsin (Diagnostic) Dataset.
+The dataset is sourced from the UCI Machine Learning Repository and can be found at the following link: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic.
 
 Getting Started
 
